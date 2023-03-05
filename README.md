@@ -9,3 +9,7 @@ The steps of this project are:
 - Model training 
 - Model Evaluation
 
+The raw data files will not be found on the repo due to the slow speed of pushing the large files. The raw data is taken from the kaggle dataset that can be found below:
+
+https://www.kaggle.com/datasets/bittlingmayer/amazonreviews?ref=floydhub-blog
+
